@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_02_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ミッドライフケアレジデンス【特定施設入居者生活介護（軽費老人ホーム）】青森県青森市新町1丁目2番5号", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=270102361-00&ServiceCd=332&Type=search", "url2": "ｍｉｄｌｉｆｅ@amc-headquarters-med.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.7354153, 40.8277073 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　サン・フラワー【特定施設入居者生活介護（軽費老人ホーム）】青森県弘前市大字向外瀬字豊田３２０番１", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=270201130-00&ServiceCd=332&Type=search", "url2": "http://www5.ocn.ne.jp/~kouyukai/index.htm" }, "geometry": { "type": "Point", "coordinates": [ 140.481664, 40.6307521 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスハルニレ【特定施設入居者生活介護（軽費老人ホーム）】青森県五所川原市大字水野尾字懸樋２２２番地3ケアハウスハルニレ", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=270500812-00&ServiceCd=332&Type=search", "url2": "httｐ//：www.takushinkai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.4816903, 40.7903451 ] } }
+]
+}

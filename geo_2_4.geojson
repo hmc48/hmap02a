@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_2_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "マンマケア　まつえ助産院【4:助産院】青森県青森市茶屋町３－２０", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=02&kikanCd=0240000002&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.764693, 40.826805 ] } },
+{ "type": "Feature", "properties": { "内容": "レディースケアしらはま助産院【4:助産院】青森県弘前市城東４－５－１　ナラオカビル１Ｆ", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=02&kikanCd=0240000004&kikanKbn=4", "url2": "https://www.shirahama-home.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.488032, 40.597408 ] } },
+{ "type": "Feature", "properties": { "内容": "き子キッズ助産院【4:助産院】青森県八戸市下長６－２－１９", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=02&kikanCd=0240000005&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.470343, 40.529099 ] } }
+]
+}

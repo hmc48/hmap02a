@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_02_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス幸陽【地域密着型特定施設入居者生活介護（軽費老人ホーム）】青森市大字矢田字下野尻48番2", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290100205-00&ServiceCd=362&Type=search", "url2": "http://www.wakouen.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.847196, 40.8468271 ] } }
+]
+}

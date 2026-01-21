@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_02_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "じけいかい定期巡回・随時対応型訪問介護看護事業所【定期巡回・随時対応型訪問介護看護】青森県青森市大字安田字近野136番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290100361-00&ServiceCd=760&Type=search", "url2": "http://www.jikei-kai.org" }, "geometry": { "type": "Point", "coordinates": [ 140.7034458, 40.8014068 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回サービス和幸【定期巡回・随時対応型訪問介護看護】青森市大字矢田字下野尻48番2", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290100692-00&ServiceCd=760&Type=search", "url2": "http://www.wakouen.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.846969924467999, 40.846654572314002 ] } },
+{ "type": "Feature", "properties": { "内容": "社会福祉法人　緑鴎会　みどり定期巡回サービス【定期巡回・随時対応型訪問介護看護】青森市大字羽白字沢田55番地5", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290100767-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.6893153, 40.8557234 ] } },
+{ "type": "Feature", "properties": { "内容": "ホームヘルパーステーション北星【定期巡回・随時対応型訪問介護看護】青森県弘前市新寺町62-1", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290200260-00&ServiceCd=760&Type=search", "url2": "http://www.hokuseikotsu.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.4644008, 40.5946592 ] } },
+{ "type": "Feature", "properties": { "内容": "ビリーブ定期巡回ケア八戸中央【定期巡回・随時対応型訪問介護看護】類家５丁目27-1", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290300326-00&ServiceCd=760&Type=search", "url2": "http://believecare.jp/" }, "geometry": { "type": "Point", "coordinates": [ 141.510499111253012, 40.5058876792747 ] } },
+{ "type": "Feature", "properties": { "内容": "瑞光園ホームヘルパーステーション【定期巡回・随時対応型訪問介護看護】八戸市大字大久保字大山32番1", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290300268-00&ServiceCd=760&Type=search", "url2": "http://zuikoen.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 141.5780708, 40.4889081 ] } },
+{ "type": "Feature", "properties": { "内容": "あんしんコールセンター生きがい十和田【定期巡回・随時対応型訪問介護看護】青森県十和田市三本木字一本木沢93-7", "url": "https://www.kaigokensaku.mhlw.go.jp/02/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=290600188-00&ServiceCd=760&Type=search", "url2": "http://ikigai-towada.net" }, "geometry": { "type": "Point", "coordinates": [ 141.203634099999988, 40.6250864 ] } }
+]
+}
